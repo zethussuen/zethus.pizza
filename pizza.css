@@ -27,6 +27,7 @@ html, body {
   background: url('slice.png');
   width: 532px;
   height: 290px;
+  z-index: 10000;
 }
 
 .slice-2 {
@@ -56,12 +57,30 @@ html, body {
 }
 
 .woah {
+  position: absolute;
+  left: 10%;
+  top: 20%;
+  z-index: 999;
+}
+
+.woah h1 {
   font-family: "Comic Sans MS", "Comic Sans";
   font-size: 8em;
   color: #fff;
-  position: absolute;
-  left: 10%;
-  top: 30%;
+  margin: 0 0 10px;
+}
+
+.woah ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.woah li a {
+  font-family: 'courier new';
+  font-size: 4em;
+  color: #fff;
+  margin: 0 0 10px;  
 }
 
 body:before, body:after {
