@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Geo);
+
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -60,4 +62,73 @@ html, body {
   position: absolute;
   left: 10%;
   top: 30%;
+}
+
+body:before, body:after {
+  font-family: "Geo";
+  position: fixed;
+  color: #fefe21;
+  left: 5px;
+  top: -10px;
+  width: 50px;
+  height: 50px;
+  letter-spacing: -2px;
+  font-size: 60px;
+  text-shadow: 1px 1px 0 #666, -1px -1px 0 #ccc;
+  z-index: 999;
+}
+body:before {
+  content: "60";
+  -webkit-animation: blip infinite 13546ms steps(1);
+          animation: blip infinite 13546ms steps(1);
+}
+body:after {
+  content: "59";
+  -webkit-animation: inverted-blip infinite 13546ms steps(1);
+          animation: inverted-blip infinite 13546ms steps(1);
+}
+
+@-webkit-keyframes blip {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@-webkit-keyframes inverted-blip {
+  0% {
+    opacity: 1;
+  }
+  5% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes blip {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes inverted-blip {
+  0% {
+    opacity: 1;
+  }
+  5% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
