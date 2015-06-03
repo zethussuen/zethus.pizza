@@ -79,13 +79,13 @@ body:before, body:after {
 }
 body:before {
   content: "60";
-  -webkit-animation: blip infinite 13546ms steps(1);
-          animation: blip infinite 13546ms steps(1);
+  -webkit-animation: blip infinite 2546ms steps(1);
+          animation: blip infinite 2546ms steps(1);
 }
 body:after {
   content: "59";
-  -webkit-animation: inverted-blip infinite 13546ms steps(1);
-          animation: inverted-blip infinite 13546ms steps(1);
+  -webkit-animation: inverted-blip infinite 2546ms steps(1);
+          animation: inverted-blip infinite 2546ms steps(1);
 }
 
 @-webkit-keyframes blip {
