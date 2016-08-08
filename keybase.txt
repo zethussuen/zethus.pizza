@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/zethus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zethus.pizza
+  * I am zethus (https://keybase.io/zethus) on keybase.
+  * I have a public key ASCZRHRjy9I3khrVPy-gumJ88qpiPHRCQfIQ12-tkCUdhAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010183fb11d64d4eb46e137c8b91965cddf03c5493b5bdd2884b09660c24da5f95620a",
+            "host": "keybase.io",
+            "kid": "012099447463cbd237921ad53f2fa0ba627cf2aa623c744241f210d76fad90251d840a",
+            "uid": "e9c96f20ed7810ef8e01224bae7dae19",
+            "username": "zethus"
+        },
+        "service": {
+            "hostname": "zethus.pizza",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470696955,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470696944,
+        "hash": "9b13dd9d91871cb83abd017996649697e6115b11427c664749816cea8a5c4670343098e73f17333b6d8221828222b65e36e49c7e97ba75a3c96e17e5fbf71c1f",
+        "seqno": 565740
+    },
+    "prev": "a776f7f16bf54def64295c52eb2f0aee8b65368281f1d0ec0839416f0e0c0146",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmUR0Y8vSN5Ia1T8voLpifPKqYjx0QkHyENdvrZAlHYQKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxODNmYjExZDY0ZDRlYjQ2ZTEzN2M4YjkxOTY1Y2RkZjAzYzU0OTNiNWJkZDI4ODRiMDk2NjBjMjRkYTVmOTU2MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTk0NDc0NjNjYmQyMzc5MjFhZDUzZjJmYTBiYTYyN2NmMmFhNjIzYzc0NDI0MWYyMTBkNzZmYWQ5MDI1MWQ4NDBhIiwidWlkIjoiZTljOTZmMjBlZDc4MTBlZjhlMDEyMjRiYWU3ZGFlMTkiLCJ1c2VybmFtZSI6InpldGh1cyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiemV0aHVzLnBpenphIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MDY5Njk1NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcwNjk2OTQ0LCJoYXNoIjoiOWIxM2RkOWQ5MTg3MWNiODNhYmQwMTc5OTY2NDk2OTdlNjExNWIxMTQyN2M2NjQ3NDk4MTZjZWE4YTVjNDY3MDM0MzA5OGU3M2YxNzMzM2I2ZDgyMjE4MjgyMjJiNjVlMzZlNDljN2U5N2JhNzVhM2M5NmUxN2U1ZmJmNzFjMWYiLCJzZXFubyI6NTY1NzQwfSwicHJldiI6ImE3NzZmN2YxNmJmNTRkZWY2NDI5NWM1MmViMmYwYWVlOGI2NTM2ODI4MWYxZDBlYzA4Mzk0MTZmMGUwYzAxNDYiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECUhdrB1r89KK13feQhbsvjHH+r3y2XWmbXZgB2+2Nv2MiSY0beGGtbeYOgIG6ojYm0hheqbt1CqEmP+RFKllcKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgnpPDR/vd8EDo93GuDQZisKCfonm6QUjDaJrbf05ElcmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zethus
+
+==================================================================
